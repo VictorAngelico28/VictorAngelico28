@@ -1,10 +1,4 @@
-- 👋 Hi, I’m VictorAngelicoNeto
+- 👋 Oi, meu nome é **VictorAngelicoNeto**
 - 👀 Aluno do 1a..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-VictorAngelico28/VictorAngelico28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Estou aprendendo a programar
+- 📫 Comecei a programar a pouco tempo no scratch e p5.js Web editor
